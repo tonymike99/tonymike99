@@ -1,6 +1,6 @@
 ## **Hi there!** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-[![Linkedin Badge](https://img.shields.io/badge/-tonymike99-0077B5?style=flat&labelColor=0077B5&logo=linkedin&logoColor=white)](https://linkedin.com/in/tonymike99) [![Twitter Badge](https://img.shields.io/badge/-@tonymike99-5DA9DD?style=flat&labelColor=5DA9DD&logo=twitter&logoColor=white)](https://twitter.com/tonymike07) [![Medium Badge](https://img.shields.io/badge/-tonymike99-000000?style=flat&labelColor=000000&logo=medium&logoColor=white)](https://medium.com/@tonymike99/) [![Mail Badge](https://img.shields.io/badge/-tonymike99-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:tonymike99@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-tonymike99-0077B5?style=flat&labelColor=0077B5&logo=linkedin&logoColor=white)](https://linkedin.com/in/tonymike99) [![Twitter Badge](https://img.shields.io/badge/-@tonymike07-5DA9DD?style=flat&labelColor=5DA9DD&logo=twitter&logoColor=white)](https://twitter.com/tonymike07) [![Medium Badge](https://img.shields.io/badge/-tonymike99-000000?style=flat&labelColor=000000&logo=medium&logoColor=white)](https://medium.com/@tonymike99/) [![Mail Badge](https://img.shields.io/badge/-tonymike99-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:tonymike99@gmail.com)
 
 📌 I'm Tony, an SDE-1 at Siemens Healthineers.
 
