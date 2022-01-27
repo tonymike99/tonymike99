@@ -18,7 +18,9 @@
 
 <br />
 
-![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonymike99&show_icons=true&theme=tokyonight)
+[![Tony's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tonymike99&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+![Tony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tonymike99&show_icons=true&theme=tokyonight)
 
 <!--
 **tonymike99/tonymike99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
