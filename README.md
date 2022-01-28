@@ -4,7 +4,7 @@
 
 📌 I'm Tony, an SDE-1 at Siemens Healthineers.
 
-📌 I'm currently learning Full-Stack Web Development.
+📌 I love coding and I'm currently learning Full-Stack Web Development.
 
 📌 My technical skills include:
 
